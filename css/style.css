@@ -1,11 +1,21 @@
+.container{
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
 body {
-    background-color: lightblue;
+    border-left: 10px black solid;
+    border-top: 10px black solid;
+    border-bottom: 10px black solid;
+    border-right: 10px black solid;
+    background-color: cyan;
+    background-size: cover;
   }
 h1{
+    margin-left: 450px;
     color: black;
 }
 h2{
-    color:purple;
+     color:purple;
 }
 td{
     color: red;
@@ -13,3 +23,5 @@ td{
 p{
     color: salmon;
 }
+
+

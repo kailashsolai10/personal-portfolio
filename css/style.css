@@ -1,14 +1,97 @@
+
+
+*{
+  margin: 0 0;
+}
 .container{
     width: 80%;
-    margin: 0 auto 0 auto;
+    background-color: snow;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+.sform{
+  width: 80%;
+  background-color: snow;
+  margin: 0 auto;
+  border: 5px solid black;
 }
 body {
-    border-left: 10px black solid;
-    border-top: 10px black solid;
-    border-bottom: 10px black solid;
-    border-right: 10px black solid;
-    background-color: cyan;
-    background-size: cover;
+     
+    background-color: skyblue;
+  }
+  .details{
+    margin-left: 60px;
+    margin: 60px;
+  }
+  .obj{
+    margin-left: 60px;
+    margin: 40px;
+  }
+  .skills{
+    margin-left: 60px;
+    margin: 40px;
+  }
+  .qualification{
+    margin-left: 60px;
+    margin: 40px  ;
+  }
+  .personal{
+    margin-left: 60px;
+    margin: 40px;
+  }
+  .contact{
+    margin-left: 60px;
+    margin: 40px;
+  }
+  .name{
+    margin-left: 60px;
+    margin: 40px;
+    color: red;
+  }
+  .mail{
+    margin-left: 60px;
+    margin: 40px;
+    color: red;
+  }
+  .mob{
+    margin-left: 60px;
+    margin: 40px;
+    color: red;
+  }
+  .pass{
+    margin-left: 60px;
+    margin: 40px;
+    color: red;
+  }
+  .cpass{
+    margin-left: 60px;
+    margin: 40px;
+    color: red;
+  }
+  .g{
+    margin-left: 60px;
+    height: 40px;
+    color: red;
+  }
+  .lan{
+    margin-left: 60px;
+    margin: 40px  ;
+    color: red;
+  }
+  .con{
+    margin-left: 60px;
+    margin: 40px;
+    color: red;
+  }
+  .com{
+    margin-left: 60px;
+    margin: 40px  ;
+    color: red;
+  }
+  .sub{
+    margin-left: 60px;
+    margin: 40px  ;
+    color: red;
   }
 h1{
     margin-left: 450px;
@@ -23,5 +106,6 @@ td{
 p{
     color: salmon;
 }
+
 
 

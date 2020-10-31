@@ -1,111 +1,105 @@
-
-
-*{
+* {
   margin: 0 0;
 }
-.container{
-    width: 80%;
-    background-color: snow;
-    margin: 0 auto;
-    border: 3px solid black;
+.container {
+  width: 80%;
+  background-color: snow;
+  margin: 0 auto;
+  border: 3px solid black;
 }
-.sform{
+.sform {
   width: 80%;
   background-color: snow;
   margin: 0 auto;
   border: 5px solid black;
 }
 body {
-     
-    background-color: skyblue;
-  }
-  .details{
-    margin-left: 60px;
-    margin: 60px;
-  }
-  .obj{
-    margin-left: 60px;
-    margin: 40px;
-  }
-  .skills{
-    margin-left: 60px;
-    margin: 40px;
-  }
-  .qualification{
-    margin-left: 60px;
-    margin: 40px  ;
-  }
-  .personal{
-    margin-left: 60px;
-    margin: 40px;
-  }
-  .contact{
-    margin-left: 60px;
-    margin: 40px;
-  }
-  .name{
-    margin-left: 60px;
-    margin: 40px;
-    color: red;
-  }
-  .mail{
-    margin-left: 60px;
-    margin: 40px;
-    color: red;
-  }
-  .mob{
-    margin-left: 60px;
-    margin: 40px;
-    color: red;
-  }
-  .pass{
-    margin-left: 60px;
-    margin: 40px;
-    color: red;
-  }
-  .cpass{
-    margin-left: 60px;
-    margin: 40px;
-    color: red;
-  }
-  .g{
-    margin-left: 60px;
-    height: 40px;
-    color: red;
-  }
-  .lan{
-    margin-left: 60px;
-    margin: 40px  ;
-    color: red;
-  }
-  .con{
-    margin-left: 60px;
-    margin: 40px;
-    color: red;
-  }
-  .com{
-    margin-left: 60px;
-    margin: 40px  ;
-    color: red;
-  }
-  .sub{
-    margin-left: 60px;
-    margin: 40px  ;
-    color: red;
-  }
-h1{
-    margin-left: 450px;
-    color: black;
+  background-color: skyblue;
 }
-h2{
-     color:purple;
+.details {
+  margin-left: 60px;
+  margin: 60px;
 }
-td{
-    color: red;
+.obj {
+  margin-left: 60px;
+  margin: 40px;
 }
-p{
-    color: salmon;
+.skills {
+  margin-left: 60px;
+  margin: 40px;
 }
-
-
-
+.qualification {
+  margin-left: 60px;
+  margin: 40px;
+}
+.personal {
+  margin-left: 60px;
+  margin: 40px;
+}
+.contact {
+  margin-left: 60px;
+  margin: 40px;
+}
+.name {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.mail {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.mob {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.pass {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.cpass {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.g {
+  margin-left: 60px;
+  height: 40px;
+  color: red;
+}
+.lan {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.con {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.com {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+.sub {
+  margin-left: 60px;
+  margin: 40px;
+  color: red;
+}
+h1 {
+  margin-left: 450px;
+  color: black;
+}
+h2 {
+  color: purple;
+}
+td {
+  color: red;
+}
+p {
+  color: salmon;
+}
